@@ -2,7 +2,7 @@
 
 High-velocity structural DOM topology, opinionated token cascading, and component architectural matrices.
 
-![License: WC-SAL-v1.0](https://img.shields.io/badge/License-WC--SAL--v1.0-blue.svg) ![Lineage](https://img.shields.io/badge/Lineage-WOOBLE--Core--v9.9.4-purple.svg) ![Status](https://img.shields.io/badge/Production-Ready-success.svg)
+![License: WC-SAL-v1.0](https://img.shields.io/badge/License-WC--SAL--v1.0-blue.svg) ![Lineage](https://img.shields.io/badge/Lineage-WOOBLE-purple.svg) ![Status](https://img.shields.io/badge/Production-Ready-success.svg)
 
 ---
 
