@@ -1,4 +1,4 @@
-# WOOBLE v9.9.4-FINAL
+# WOOBLE
 
 High-velocity structural DOM topology, opinionated token cascading, and component architectural matrices.
 
@@ -47,5 +47,5 @@ High-velocity structural DOM topology, opinionated token cascading, and componen
 ## Credits & Provenance
 
 * **Grand Artisans / Licensors**: Muhammad Awais & Sawera Ehsar
-* **Core Lineage**: WOOBLE-Core-v9.9.4
+* **Core Lineage**: WOOBLE
 * **Full Legal Compliance**: Governed by the WC-SAL-v1.0 agreement specification.
