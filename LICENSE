@@ -1,0 +1,81 @@
+WOOBLE COMMERCIAL SOURCE-AVAILABLE LICENSE (WC-SAL-v1.0)
+
+Effective Date: September 18, 2026  
+Licensors: Muhammad Awais and Sawera Ehsar ("Licensors")  
+Artifact: The "WOOBLE" repository, design-system tokens, architectural layout matrices, and associated component source code ("Repository").
+
+---
+
+PREAMBLE
+
+This Commercial Source-Available License ("Agreement") governs the access, inspection, reproduction, and deployment of the WOOBLE Repository. By executing a Direct Clone, commercial deployment, or production integration of the Repository, the entity or individual executing such action ("Licensee") agrees to be bound by the terms set forth herein. 
+
+---
+
+SECTION 1: DEFINITIONS
+
+1.1 "Base Open-Source Components": Standard foundational markup, raw ECMA-compliant script primitives, universal W3C specifications, and third-party libraries governed independently by MIT, Apache-2.0, or BSD-3-Clause licenses.  
+1.2 "Direct Clone Bundle": Contiguous file-tree reproduction, git-managed duplication, serialized folder extraction, or component glue-code replication that preserves the proprietary architectural arrangement, JSON/YAML manifest structures, and token cascading unique to the Licensors.  
+1.3 "Clean-Room Reimplementation": Independent cognitive derivation, manual keystroke transcription into an independent repository sharing zero byte-level or structural file-tree lineage, derived solely from visual inspection of public-facing renders.  
+1.4 "Stipulated Fee": The mandatory financial consideration defined in Section 3.1.  
+
+---
+
+SECTION 2: LICENSE GRANT & DUAL-TIER BIFURCATION
+
+2.1 The Clean-Room Free Tier
+Any individual may ocularly inspect public renderings, commit architectural patterns to memory, and manually author an independent, clean-room implementation free of charge, subject to strict prohibition against automated scraping, bulk tarball extraction, or direct git-tree mirroring exceeding 14 contiguous lines of proprietary component glue.
+
+2.2 The Direct Clone Commercial Grant
+Upon satisfaction of Section 3, Licensors grant Licensee a non-exclusive, worldwide, perpetual right to utilize, modify, and deploy the Direct Clone Bundle for personal, staging, internal, or commercial production workloads. Redistribution of the raw Direct Clone Bundle as a competing UI template marketplace product remains strictly prohibited.
+
+---
+
+SECTION 3: FINANCIAL CONSIDERATION & REMITTANCE
+
+3.1 Mandatory Tariff: Licensee shall remit a non-refundable, flat-rate commercial indemnification and license fee of PKR 3,000.00 (Pakistani Rupees Three Thousand exact, equivalent to approximately $10.82 USD interbank benchmark reference as of September 2026, subject to live payment gateway settlement rates).  
+3.2 Allocative Structure: Remittance covers both commercial exploitation authorization (PKR 2,000 equivalent) and architectural design-system maintenance/token harmonization subsidization (PKR 1,000 equivalent).  
+3.3 Condition Precedent: Verification of full settlement clearance into designated sovereign accounts of Muhammad Awais or Sawera Ehsar is a strict condition precedent to warranty activation and upstream update rights. Unpaid direct clones constitute unauthorized reproduction.  
+
+---
+
+SECTION 4: LIMITED CONFORMITY WARRANTY & DISCLAIMER
+
+4.1 90-Day Conformance Window: For ninety (90) calendar days from verified settlement clearance, Licensors warrant that the structural markup tree renders baseline visual groupings consonant with README documentation mockups under a standard reference viewport (1440x900px desktop canvas).  
+4.2 Exclusive Remedy: Sole remedy for non-conformity during the 90-day window is markdown-formatted diagnostic bug submission. Licensors may, at their sole discretion, provide a targeted git diff patch or advisory guidance. No custom engineering service is implied.  
+4.3 AS-IS Disclaimer: EXCEPT FOR THE 90-DAY LIMITED WINDOW IN SECTION 4.1, THE REPOSITORY IS PROVIDED "AS IS", "WITH ALL FAULTS", AND WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT.  
+
+---
+
+SECTION 5: UPSTREAM UPDATES AND EVOLUTIONARY CADENCE
+
+5.1 Lifetime Minor Sync Access: Upon verified clearance of the Stipulated Fee, Licensee receives perpetual, zero-marginal-cost access to downstream patch increments, minor point iterations (v1.x to v1.(x+1)), security hotfixes, and variable renamings on the primary main repository branch.  
+5.2 Exclusion of Major Paradigms: Lifetime updates exclude total architectural paradigm transmutations (e.g., migration from static token/DOM assemblies to WebAssembly kernels, edge-fabric node shards, or neural-prompt generation engines for v2.0.0+), which may require separate commercial terms.  
+
+---
+
+SECTION 6: INTELLECTUAL PROPERTY & ATTRIBUTION
+
+6.1 Title Retention: All legal title, copyright, moral rights (droit moral), and trade dress surrounding "WOOBLE" remain vested in Muhammad Awais and Sawera Ehsar.  
+6.2 Attribution Preservation: Commercial deployments utilizing the Direct Clone Bundle must retain unobtrusive HTML comment signatures or footer citation strings acknowledging primary authorship by Muhammad Awais and Sawera Ehsar.  
+
+---
+
+SECTION 7: LIMITATION OF LIABILITY
+
+7.1 Exclusion of Consequential Damages: UNDER NO CIRCUMSTANCES SHALL LICENSORS, THEIR HEIRS, ASSIGNS, OR PROXIES BE LIABLE FOR ANY INDIRECT, SPECIAL, INCIDENTAL, CONSEQUENTIAL, PUNITIVE, OR EXEMPLARY DAMAGES (INCLUDING LOST REVENUE, SERVER DOWNTIME, OR DATA CORRUPTION) ARISING OUT OF THE USE OR INABILITY TO USE THE REPOSITORY.  
+7.2 Liability Ceiling: IN NO EVENT SHALL THE AGGREGATE LIABILITY OF LICENSORS EXCEED THE NET MONETARY SUM ACTUALLY REMITTED AND CLEARED BY LICENSEE UNDER SECTION 3.1.  
+
+---
+
+SECTION 8: TERM, TERMINATION, AND GENERAL PROVISIONS
+
+8.1 Termination: This license terminates automatically if Licensee breaches financial remittance obligations or unauthorized redistribution terms. Upon termination, Licensee shall purge all Direct Clone Bundle instances from production and storage systems.  
+8.2 Severability: If any provision of this Agreement is held invalid, illegal, or unenforceable, that provision shall be modified to the minimum extent necessary to make it enforceable, and remaining provisions shall remain in full force and effect.  
+8.3 Entire Agreement: This Agreement constitutes the entire understanding between Licensors and Licensee regarding the Repository.  
+
+---
+
+Executed and published by the Grand Artisans:  
+Muhammad Awais & Sawera Ehsar  
+(Repository lineage: WOOBLE)
